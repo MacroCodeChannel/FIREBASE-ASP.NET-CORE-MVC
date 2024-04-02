@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\views\\home\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:views\\home\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\models\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:models\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|d:\\software projects\\.net core projects\\firebaseaspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABEBC37-47FD-43B2-A776-38CC73BDB8AA}|FIREBASEASPMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Home\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AddStudent.cshtml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Home\\AddStudent.cshtml",
+              "RelativeToolTip": "Views\\Home\\AddStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:39:56.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:36:57.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:17:08.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:14:55.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:14:41.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorModel.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Models\\ErrorModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorModel.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Models\\ErrorModel.cs",
+              "RelativeToolTip": "Models\\ErrorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:08:42.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:07:22.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T13:56:49.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:55:56.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\FIREBASEASPMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:55:52.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
